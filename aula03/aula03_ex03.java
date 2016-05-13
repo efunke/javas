@@ -1,6 +1,6 @@
 import java.io.*;
 
-public class EntradaDados1
+public class aula03_ex03
 {
   public static void main(String args[]) throws IOException
   {

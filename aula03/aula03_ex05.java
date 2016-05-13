@@ -1,5 +1,5 @@
 import java.io.*;
-public class EntradaDados2
+public class aula03_ex05
 {
   public static void main(String args[]) throws IOException
   {

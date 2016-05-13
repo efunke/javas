@@ -1,3 +1,6 @@
+repositório Github: https://github.com/efunke/javas.git
+
+
 O formato de criação dos arquivos será aula02_ex01, onde:
 aula02: representa a aula;
 ex01: representa o número sequencial do exercício;
